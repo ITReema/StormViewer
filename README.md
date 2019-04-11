@@ -1,5 +1,5 @@
 # StormViewer
-app to display list images
+app to display a list of images
 ## Implementation
 The app has two view controller scenes:
 * **ViewController** contain UITableViewController list of image name 
