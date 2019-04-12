@@ -14,6 +14,19 @@ The app has two view controller scenes:
 ## Challenge
 * Use Interface Builder to select the text label inside your table view cell and adjust its font size to something larger – experiment and see what looks good.
 
+<p align="center">
+  <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56065507-b1fdb480-5d7d-11e9-979c-c04e2ec51660.png">
+</p>
+
 * In your main table view, show the image names in sorted order, so “nssl0033.jpg” comes before “nssl0034.jpg”.
 
+<p align="center">
+  <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56065507-b1fdb480-5d7d-11e9-979c-c04e2ec51660.png">
+</p>
+
 * Rather than show image names in the detail title bar, show “Picture X of Y”, where Y is the total number of images and X is the selected picture’s position in the array. Make sure you count from 1 rather than 0.
+
+<p align="center">
+  <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56065508-b2964b00-5d7d-11e9-85d0-92598afaae6d.png">
+</p>
+
