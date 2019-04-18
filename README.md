@@ -30,3 +30,11 @@ The app has two view controller scenes:
   <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56065508-b2964b00-5d7d-11e9-85d0-92598afaae6d.png">
 </p>
 
+
+## Share image 
+add Button in navigation bar to share image. Will automatically give us functionality to share by iMessage, by email and by Twitter and Facebook, as well as saving the image to the photo library, assigning it to contact, printing it out via AirPrint, and more.
+
+<p align="center">
+  <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56361729-c532d900-61f0-11e9-84f5-c54f2487d41e.png">
+</p>
+
