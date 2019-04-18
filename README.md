@@ -37,4 +37,8 @@ add Button in navigation bar to share image. Will automatically give us function
 <p align="center">
   <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56361729-c532d900-61f0-11e9-84f5-c54f2487d41e.png">
 </p>
+<p align="center">
+  <img width="250" height="500" src="https://user-images.githubusercontent.com/27751735/56362166-e8aa5380-61f1-11e9-8ad8-a65903065c50.png">
+</p>
+
 
