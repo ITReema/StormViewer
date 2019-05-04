@@ -18,9 +18,8 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
         title = pictureTitle
         navigationItem.largeTitleDisplayMode = .never
-        //Shaer button
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(shareTapped))
-        
+
         if let imageToLoad = selectedImage {
             imageView.image  = UIImage(named: imageToLoad)
         }
